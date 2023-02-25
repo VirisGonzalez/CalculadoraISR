@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3de38df5_002D45b3_002D4e3c_002Daae0_002Dc6b08c52ed4f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ISRProcess" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr6&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=45301d78_002Da621_002D4562_002D8877_002D6711a063eca1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProcessIsr10" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=54489ad8_002D995e_002D4429_002D8c88_002D49835fb6f726/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ProcessIsr5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr5&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr7&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr8&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0152D0F9-4CA4-434A-980B-B9E6E675640C::net6.0::TecNM.Practica3_0.Tests.IsrCalculatorService.ProcessIsr9&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
